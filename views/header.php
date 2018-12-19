@@ -63,7 +63,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
     <li class="nav-item">
-        <a class="nav-link active" href="?page=content">About</a>
+        <a class="nav-link" href="?page=content">About</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="?page=administration">Administration<span class="sr-only">(current)</span></a>

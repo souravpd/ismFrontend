@@ -51,6 +51,17 @@
 </div>  
   <?php } ?>
 
+  <?php function cvCard(){ ?>
+  <div class="card mr-2 mb-2" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">Club Name</h5>  
+    <h6 class="card-subtitle mb-2 text-muted">Estd.</h6> <img data-src="holder.js/50x50">
+    <a href="#" class=" ml-1 card-link">Contact</a>
+    <a href="#" class="card-link">View</a>
+  </div>
+</div>  
+  <?php } ?>
+
 <?php function departmentVCard(){ ?> 
   <div class="col-md-7 col-xl-4">
             <div class="card m-b-30">
