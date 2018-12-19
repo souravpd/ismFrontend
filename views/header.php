@@ -77,7 +77,7 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="?page=content">Simple Page</a>
-          <a class="dropdown-item" href="?page=addressBook">Address Book</a>
+          <a class="dropdown-item" href="?page=campusLife">Campus Life</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="?page=professorPage">Professor Page</a>
         </div>
