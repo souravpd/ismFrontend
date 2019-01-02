@@ -6,28 +6,28 @@
 <?php function showCards(){ ?>
 <div class="card-deck">
 <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
+  <div class="card-header">Achievements</div>
   <div class="card-body">
     <h5 class="card-title">Primary card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
 </div>
 <div class="card text-white bg-secondary mb-3" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
+  <div class="card-header">Recent Publications</div>
   <div class="card-body">
     <h5 class="card-title">Secondary card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
 </div>
 <div class="card text-white bg-success mb-3" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
+  <div class="card-header">Placement Statistics</div>
   <div class="card-body">
     <h5 class="card-title">Success card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
 </div>
 <div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
+  <div class="card-header">Legacy</div>
   <div class="card-body">
     <h5 class="card-title">Danger card title</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -40,7 +40,7 @@
     <div class="row mb-0">        
           <div class="card flex-md-row mb-2 shadow-sm h-md-100">
             <div class="card-body d-flex flex-column align-items-start">
-              <strong class="d-inline-block mb-1 text-primary">World</strong>
+              <strong class="d-inline-block mb-1 text-primary">College</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">Lorem, ipsum.</a>
               </h3>
@@ -54,7 +54,7 @@
     <div class="row mb-0">        
           <div class="card flex-md-row mb-2 shadow-sm h-md-100">
             <div class="card-body d-flex flex-column align-items-start">
-              <strong class="d-inline-block mb-1 text-success">Design</strong>
+              <strong class="d-inline-block mb-1 text-success">Infrastructure</strong>
               <h3 class="mb-0">
                 <a class="text-dark" href="#">Lorem, ipsum.</a>
               </h3>
