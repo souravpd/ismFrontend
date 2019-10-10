@@ -34,5 +34,6 @@ Site-Structure:
 
 Controller : 
 ------------------------------------
-All views are generated using the viewGenerator.php file
+All views are generated using the viewGenerator.php file 
+This is the Router
 ------------------------------------
